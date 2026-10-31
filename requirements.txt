@@ -1,0 +1,9 @@
+# Fijar versiones exactas (pip freeze) una vez que el equipo instale el entorno.
+fastapi
+uvicorn
+python-multipart
+sqlglot
+sqlparse
+pandas
+pyodbc
+pytest

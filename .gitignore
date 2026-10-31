@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configuración local (cadena de conexión a SQL Server, etc.)
+.env
+*.local.toml
+
+# Resultados generados al procesar archivos
+salidas/
+*.zip
+
+# Editores / sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

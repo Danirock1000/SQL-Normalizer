@@ -1,0 +1,5 @@
+# Los archivos de prueba deben conservarse byte a byte
+# (incluye scripts UTF-16 con BOM exportados desde SSMS y finales de línea CRLF).
+tests/casos/** -text
+
+* text=auto
